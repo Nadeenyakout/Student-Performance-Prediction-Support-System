@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Risk Prediction</title>
+</head>
+<body>
+    <h2>Enter Student Features</h2>
+    <form action="/predict_web" method="post">
+        Age: <input type="number" name="age"><br>
+        Medu: <input type="number" name="Medu"><br>
+        Fedu: <input type="number" name="Fedu"><br>
+        Absences: <input type="number" name="absences"><br>
+        Study Time (weekly): <input type="number" name="studytime"><br>
+        Past Failures: <input type="number" name="failures"><br>
+        Workday Alcohol (Dalc): <input type="number" name="Dalc"><br>
+        Health: <input type="number" name="health"><br>
+        <input type="submit" value="Predict Risk">
+    </form>
+</body>
+</html>
