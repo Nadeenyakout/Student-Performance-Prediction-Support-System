@@ -10,3 +10,4 @@ Data preprocessing and feature engineering
 Machine learning model training and evaluation
 
 Deployment via a Flask web application for real-time predictions
+full presentation:https://www.canva.com/design/DAGyA_XL2pA/_FV4BCIyfa-tXghG5RFSUA/edit?utm_content=DAGyA_XL2pA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
